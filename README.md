@@ -2,7 +2,7 @@
 This project implements a complete P300 Event-Related Potential (ERP) analysis pipeline using EEG data from the BNCI 2015-003 Visual P300 Speller dataset
 
 <p align="left">
-  <img src="images/cover-img" width="350" title="cover image">
+  <img src="images/cover-img.png" width="350" title="cover image">
 </p>
 
 ## Introduction :bulb:
@@ -56,10 +56,10 @@ The major findings of this analysis is to identify P300 and identify thier ampli
 
 ### Plot visualization for one mat file
 <p align="left">
-  <img src="images/plot-one-mat-file" width="350" title="plot-one-mat-file">
+  <img src="images/plot-one-mat-file.png" width="350" title="plot-one-mat-file">
 </p>
 
 ### Plot visualization for ten mat file
 <p align="left">
-  <img src="images/plot-ten-mat-file" width="350" title="plot-ten-mat-file">
+  <img src="images/plot-ten-mat-file.png" width="350" title="plot-ten-mat-file">
 </p>
