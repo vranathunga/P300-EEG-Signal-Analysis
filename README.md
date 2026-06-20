@@ -25,16 +25,16 @@ Understanding Brain Function
 EEG is noisy. Identifying whether it has a peak or not is not easy. Therefore we have to preprocess it and find a peak or not?
 
 ## Pipeline for P300 Analysis :mag:
-✓ Load EEG
-✓ Filter
-✓ Extract events
-✓ Create epochs
-✓ Average target
-✓ Average non-target
-✓ Plot ERP
-✓ Find P300 peak
-✓ Calculate amplitude
-✓ Calculate latency 
+- Load EEG
+- Filter
+- Extract events
+- Create epochs
+- Average target
+- Average non-target
+- Plot ERP
+- Find P300 peak
+- Calculate amplitude
+- Calculate latency 
 
 ## Dataset :bar_chart:
 BNCI Horizon 2020 Dataset: BNCI 2015-003 (Visual P300 Speller)
