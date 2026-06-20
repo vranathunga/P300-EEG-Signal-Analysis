@@ -56,10 +56,10 @@ The major findings of this analysis is to identify P300 and identify thier ampli
 
 ### Plot visualization for one mat file
 <p align="left">
-  <img src="images/plot-one-mat-file.png" width="500" title="plot-one-mat-file">
+  <img src="images/plot-one-mat-file.png" width="800" title="plot-one-mat-file">
 </p>
 
 ### Plot visualization for ten mat file
 <p align="left">
-  <img src="images/plot-ten-mat-file.png" width="500" title="plot-ten-mat-file">
+  <img src="images/plot-ten-mat-file.png" width="800" title="plot-ten-mat-file">
 </p>
