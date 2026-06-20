@@ -47,3 +47,19 @@ BNCI Horizon 2020 Dataset: BNCI 2015-003 (Visual P300 Speller)
 - SciPy
 - Pandas
 - Matplotlib
+
+## Methodology :rocket:
+For analyzing EEG singnals for identify P300. First we will implement the pipeline for one .mat file and check whether pipeline works smoothly without any errors. Then if no any errors we can implement full pipeline into all ten .mat files
+
+## Findings :hammer_and_wrench:
+The major findings of this analysis is to identify P300 and identify thier amplitude and latency. From those data we can use it for meaningful researches. To showcase how to do it using several EEG signals is demonstrated here. So as findings I am presenting latency and amplitude of all ten files and one file in csv format and visually. Those csv files are attached to the repository for your reference.
+
+### Plot visualization for one mat file
+<p align="left">
+  <img src="images/plot-one-mat-file" width="350" title="plot-one-mat-file">
+</p>
+
+### Plot visualization for ten mat file
+<p align="left">
+  <img src="images/plot-ten-mat-file" width="350" title="plot-ten-mat-file">
+</p>
